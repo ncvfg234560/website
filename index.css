@@ -1,0 +1,61 @@
+html {
+        background-color: lightgrey;
+}
+
+h1 {
+        padding-bottom: 1ex;
+        border-bottom-style: solid;
+        border-bottom-width: medium;
+}
+
+h3 {
+        padding-bottom: 0.5ex;
+        border-bottom-style: groove;
+        border-bottom-width: thin;
+}
+
+body {
+        background-color: rgba(0, 0, 0, 0.1);
+        margin-left: 25%;
+        margin-right: 25%;
+        border-radius: 5px;
+        padding: 10px;
+}
+
+li {
+        text-align: left;
+}
+
+a {
+        text-decoration: none;
+}
+
+a:hover {
+        color: black;
+        text-decoration: underline;
+}
+
+#me {
+        width: 25%;
+        height: 25%;
+        border-radius: 5px;
+        float: right;
+        margin-right: 200px;
+}
+
+#arch {
+        width: 10%;
+        height: 10%;
+        float: right;
+        padding-right: 200px;
+        padding-top: 50px;
+}
+
+#small {
+        font-size: 14px;
+}
+
+#crypto {
+        width: 2%;
+        height: 2%;
+}
