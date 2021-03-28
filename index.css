@@ -31,6 +31,19 @@ a {
         text-decoration: none;
 }
 
+code {
+        background-color: darkgrey;
+}
+
+pre {
+        background-color: darkgrey;
+        padding: 20px;
+        margin: 20px;
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 5px;
+}
+
 a:hover {
         color: black;
         text-decoration: underline;
